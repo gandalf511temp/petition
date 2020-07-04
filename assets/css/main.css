@@ -188,6 +188,10 @@ input, select, textarea {
 		text-align: justify;
 	}
 
+    #blog p {text-align:left;
+            margin-bottom:.75em;
+    }
+
 	br.clear {
 		clear: both;
 	}
